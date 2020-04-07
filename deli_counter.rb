@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if array.size == 0
+  if array.size = 0
     puts "The line is currently empty."
   elsif array.size == 2
     return array.join(" and ")
